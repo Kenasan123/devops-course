@@ -1,1 +1,0 @@
-This is my first devops pipeline experience and i,m loving it
